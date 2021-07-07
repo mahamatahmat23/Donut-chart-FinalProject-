@@ -5,9 +5,9 @@ A simple donut chart data visualization with d3.js (University final project). T
 -the project allows to visualize and understaning the data easily .
 -For example, you can also use to display the number of products that customers buy from a store x.
 
-Description : versiğon Français 
+Description : version Français 
 
-Une simple visualisation des donnée avec d3.js(Projet de fin des etudes en enginerie de systeme informatique universite de Sakarya(Turkiye)) en donut chart.
+Une simple visualisation des donnée avec d3.js(Projet de fin des etudes en ingenierie de systemes informatique universite de Sakarya(Turquie) en utilisant le  donut chart.
 -J'ai utiliser firebase-firestore pour sauvegarder les données.
 -Le projet a pour but de visualiser et comprendre facilement les données
 -Par exemple on peut utilser cet application pour visualiser facilement les produits achetés par de clients dans un magasin x.

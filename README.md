@@ -1,7 +1,7 @@
 # Donut-chart-FinalProject-
 Description: English Version 
 A simple donut chart data visualization with d3.js (University final project). That project is to understand data vizualisation with d3.js
--I used firebase-firestore to store my data 
+-I used firebase-firestore to store data 
 -the project allows to visualize and understaning the data easily .
 -For example, you can also use to display the number of products that customers buy from a store x.
 
